@@ -1,2 +1,2 @@
 # Smeepy-Info
-Landing page and Product Documentation for Smeepy
+Landing page and Product Documentation for Smeepy.
